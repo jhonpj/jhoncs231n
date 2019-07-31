@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 layout: page
 mathjax: true
@@ -119,3 +120,5 @@ implement additional layers, use different types of regularization, use an
 ensemble of models, or anything else that comes to mind. If you implement these
 or other ideas not covered in the assignment then you will be awarded some bonus
 points.
+
+>>>>>>> 055911f8e0507f1d44fc80386cd5a36fc0af1668
